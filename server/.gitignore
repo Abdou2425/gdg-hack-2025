@@ -27,3 +27,5 @@ package-lock.json
 
 #Ignore yarn.lock (optional, if you use npm)
 yarn.lock
+# ignore .env
+.env
