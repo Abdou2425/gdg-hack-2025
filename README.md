@@ -95,7 +95,7 @@ Developed as part of **GDG club Algiers hackathon 2025**
 Use **Postman** to test the API endpoints try like:
 - Create challenge by companie (`POST /company/createIntership/`)
 - Student registration (`POST /student/register/`)
-- List all internhips (`POST /engaement/getAllInterships/`)
+- List all internhips (`GET /engaement/getAllInterships/`)
 .....
 
 ##  👥 Contributors
