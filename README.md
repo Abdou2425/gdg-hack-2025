@@ -14,16 +14,7 @@ Developed a full-stack web application that **connects students with companies**
 - Employers can then review submissions, evaluate candidates, and select the best profiles for internships or job offers. 👔🔍✨ 
 
 Developed as part of **GDG club Algiers hackathon 2025**
-## 🎯 Features
-### 🔐 Authentication
-- **Admin**: Verfiy companies and manage companies, student.
-- **Companies/Student**: Provide SignIn/Register pages
-### 💻 OTP verification
-- While the registration **Students** have a code sent to their emails for more security
-### 👤 Profile Section
-- Companies and students have a profile page where they can edit their personal information and review their past activities.
-### 🏢 Internship Pages
-- Students can look for all internships provided by companies and their tasks, also they can submit solution and contact companies.
+
 
 ## 🎯 Features
 ### 🔐 Authentication
